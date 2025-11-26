@@ -1,0 +1,35 @@
+commit a08ba5fae79aec6031e8a6d39f41021b6402d70d
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 17:49:09 2025 +0100
+
+    Merge add-license branch into main
+
+ images/logo.png | Bin 0 -> 54854 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2c537e742e3a09194641d95abc3e914eff738b9e
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 09:18:06 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit d7568d0be5b3f3b336b5abf01b4233db9b14a589
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 09:05:26 2025 +0100
+
+    Enhace README with formating
+
+ README.md | 50 ++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 50 insertions(+)
+
+commit 960e507d848a6a86e09557ba0c606dd09a9ffac0
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 19 08:48:06 2025 +0100
+
+    initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
