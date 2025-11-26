@@ -1,0 +1,71 @@
+commit 46809bacf392f67acd093c2bec4c14cfaa9bea05
+Merge: 80c6fb4 7f78faf
+Author: maria <30363280z@iespoblenou.org>
+Date:   Wed Nov 26 19:10:10 2025 +0100
+
+    Merge pull request #2 from 30363280z-hue/feature/1-contribution-guidelines
+    
+    Add CONTRIBUTING.md with contribution guidelines
+
+commit 7f78faf67aa4bdcdab1f2fdc7256a8cbdb94b4a9
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 18:42:28 2025 +0100
+
+    Add CONTRIBUTING.md with contribution guidelines
+
+ CONTRIBUTING.md | 34 ++++++++++++++++++++++++++++++++++
+ 1 file changed, 34 insertions(+)
+
+commit 80c6fb4f891b14a44e8ee5048f5f9cffae1a6f41
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 18:10:50 2025 +0100
+
+    Update Introduction of README.md
+
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 5c3169134dc578303d391fa3323985ba2bb5df74
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 17:55:14 2025 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 35 +++++++++++++++++++++++++++++++++++
+ 1 file changed, 35 insertions(+)
+
+commit a08ba5fae79aec6031e8a6d39f41021b6402d70d
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 17:49:09 2025 +0100
+
+    Merge add-license branch into main
+
+ images/logo.png | Bin 0 -> 54854 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2c537e742e3a09194641d95abc3e914eff738b9e
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 09:18:06 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit d7568d0be5b3f3b336b5abf01b4233db9b14a589
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 26 09:05:26 2025 +0100
+
+    Enhace README with formating
+
+ README.md | 50 ++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 50 insertions(+)
+
+commit 960e507d848a6a86e09557ba0c606dd09a9ffac0
+Author: maria <30363280z@gmail.com>
+Date:   Wed Nov 19 08:48:06 2025 +0100
+
+    initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
