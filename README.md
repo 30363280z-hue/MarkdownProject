@@ -8,6 +8,7 @@
 - [License](#license)
 ## Intoduction.
 Git es un sistema de control de versiones rápido, escalable y distribuido con un conjunto de comandos excepcionalmente rico que proporciona tanto operaciones de alto nivel como acceso completo a los detalles internos.
+Afegint una línia de prova a la introducció.
 
 ![Project Logo](images/logo.png)
 
@@ -48,3 +49,6 @@ Git se distribuye bajo la Licencia Pública General de GNU versión 2.0
 - En esta practica creamos carpetas y ficheros dentro nuestra configuración git y llevamos acabo lo aprendido en clase. 
 
 - GitDocumentation https://git-scm.com/docs/git
+
+
+
